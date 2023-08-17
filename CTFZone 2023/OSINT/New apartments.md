@@ -5,7 +5,7 @@ Hamster Lenya moved to a new apartment. Look at the view from his window. Determ
 The challenge gave me a picture of a building: 
 ![image](https://github.com/agj1ss/CTF_Write_up/assets/108376735/a729f7b0-6776-4f55-9c36-deb54e356200)
 
-I Upload this to `Google Lens` and found the building with its name "Cirkon Dental Lab" in a Facebook post:
+I upload this to `Google Lens` and found the building with its name "Cirkon Dental Lab" in a Facebook post:
 ![Screenshot 2023-08-13 104753](https://github.com/agj1ss/CTF_Write_up/assets/108376735/93e07930-9a4c-415c-90f4-8648c31da5c8)
 
 ![Screenshot 2023-08-13 104839](https://github.com/agj1ss/CTF_Write_up/assets/108376735/5cd1a033-fd3c-49cd-80c1-8383ee63b2e4)
